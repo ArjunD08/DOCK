@@ -25,6 +25,26 @@ Currently, carrying separate standalone devices for sleep therapy, habitat safet
 #### 3️⃣ Habitat Safety Module (Environment Guard)
 *   **Hardware:** MQ Gas Sensor, Vibration Sensor, LDR (Light).
 *   **Logic:** Continuous passive monitoring for CO2 leaks or structural kinetic stress (Sandstorms), requiring zero crew interaction.
+  
+---
+
+## 🌌 Why This Matters for Mars
+
+| Mission Phase | DOCK Contribution |
+| :--- | :--- |
+| **Preparation** | Reduces device count and simplifies training for civilian explorers by using a unified interface. |
+| **The Journey** | Saves critical power and mass; supports mental well-being via games and white noise in deep-space isolation. |
+| **On Mars** | Adapts to habitat growth; provides autonomous early warning for lethal sandstorms and atmospheric leaks. |
 
 ---
+
+## 👥 Team & Hackathon
+**Built for the Hardware Hackathon 2.0 2025.**
+
+*   **Developed by:** Akash AS, Mahesh Kumar, Arjun D
+*   **Tools used:** OrCAD, Solidworks
+*   **Simulation Link:** [Paste your Wokwi Link Here]
+
+---
+
 
