@@ -1,9 +1,5 @@
 # 🚀 DOCK: Universal Modular Hub for Mars Missions
 
-![Project Status](https://img.shields.io/badge/Status-Hackathon_Prototype-orange)
-![Hardware](https://img.shields.io/badge/Main_Core-ESP32-blue)
-![Interface](https://img.shields.io/badge/Connector-10--Pin_Universal-red)
-
 > **“DOCK is a universal plug-and-play system that turns one smart device into many mission-critical tools — reducing complexity for future Mars explorers.”**
 
 ---
