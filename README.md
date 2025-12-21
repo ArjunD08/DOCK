@@ -43,7 +43,7 @@ Currently, carrying separate standalone devices for sleep therapy, habitat safet
 
 *   **Developed by:** Akash AS, Mahesh Kumar, Arjun D
 *   **Tools used:** OrCAD, Solidworks
-*   **Simulation Link:** [Paste your Wokwi Link Here]
+*   **Simulation Link:** 
 
 ---
 
